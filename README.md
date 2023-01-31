@@ -3,7 +3,7 @@ Teaching Programming Portfolio
 
 
 Assignements:
-[Sequencing](https://youtu.be/5QyQPcu8WrQ)
-[Break Dance Project](https://youtu.be/21jeXH6tsWM)
-[Loops](https://youtu.be/sKIORldjqzM)
-[Nested Loop](https://youtu.be/AqmLMDdnBqE)
+  1. [Sequencing](https://youtu.be/5QyQPcu8WrQ)
+  2. [Break Dance Project](https://youtu.be/21jeXH6tsWM)
+  3. [Loops](https://youtu.be/sKIORldjqzM)
+  4. [Nested Loop](https://youtu.be/AqmLMDdnBqE)
