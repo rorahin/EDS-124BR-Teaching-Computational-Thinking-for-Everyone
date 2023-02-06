@@ -9,4 +9,4 @@ Assignements:
   4. [Nested Loop](https://youtu.be/AqmLMDdnBqE)
   5. [Interactive Monkey and Banana Game](https://youtu.be/dtpFVWznxzw)
   6. [Variables Drawing Shapes](https://youtu.be/vkmocmXo2XM)
-  7. [Persons](https://youtu.be/qfRZH3oDero):[templete]()
+  7. [Persons](https://youtu.be/qfRZH3oDero):[templete](/Documents/)
