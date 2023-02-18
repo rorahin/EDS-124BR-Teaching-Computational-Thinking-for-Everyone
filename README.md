@@ -11,3 +11,4 @@ Assignements:
   6. [Variables Drawing Shapes](https://youtu.be/vkmocmXo2XM)
   7. [Persons](https://youtu.be/qfRZH3oDero):[ templete](https://github.com/rorahin/EDS-124BR-Teaching-Computational-Thinking-for-Everyone/blob/main/Documents/%20Parsons%20Problems%20for%20Teaching%20Template.pdf)
   8. [Conditional loop](https://youtu.be/RaxqBWlC0R4)
+  9. [if - else Statements](https://youtu.be/VgD3j5ELu6w)
