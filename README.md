@@ -13,3 +13,4 @@ Assignements:
   8. [Conditional loop](https://youtu.be/RaxqBWlC0R4)
   9. [if - else Statements](https://youtu.be/VgD3j5ELu6w)
   10. [Nested if - else Statements](https://youtu.be/Vigz8Ia4XbI)
+  11. [AND & OR nested conditional}(https://youtu.be/Y5Wm9gBqdFI)
